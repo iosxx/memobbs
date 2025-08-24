@@ -1,6 +1,13 @@
 {
   "myMemoList" : [
-  {
+ {
+    "creatorName": "干饭blog",
+    "website": "https://blog.g0f.cn",
+    "link": "https://memos.tangguo.life",
+    "creatorId": "1",
+    "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2b621514941307e21be?s=80",
+    "twikoo": "https://twikoo.tangguo.life"
+  }, {
     "creatorName": "林木木",
     "website": "https://immmmm.com",
     "link": "https://me.edui.fun",
